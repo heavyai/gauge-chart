@@ -1,0 +1,53 @@
+/*
+ * SPDX-FileCopyrightText: Copyright (c) 2026, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+.gauge-chart {
+  background-color: black;
+}
+
+.gauge-container {
+  background-color: yellow;
+  width: 500px;
+  height: 500px;
+}
+
+.gauge-chart {
+}
+
+.gauge-needle {
+  fill: blue;
+  stroke: green;
+}
+
+.gauge-needle-text {
+}
+
+.gauge-needle.outside {
+  fill: red;
+  stroke: darkgray;
+}
+
+.meter {
+}
+
+.wedge {
+}
+
+.gauge-text {
+  font-size: 14pt;
+  fill: white;
+}
+
+.gauge-wedge-label-text {
+  font-size: 10pt;
+}
+
+.gauge-target-line {
+  stroke: cyan;
+}
+
+.gauge-target-label-text {
+  font-size: 18pt;
+}
